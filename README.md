@@ -33,6 +33,13 @@ A curated catalog of Model Context Protocol (MCP) servers and AI agent skills, v
 
 ---
 
+## 🌐 Web & Browser Automation
+
+* [Puppeteer MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) [![RepoAI Security](https://repoai.io/api/badge/security/puppeteer-mcp)](https://repoai.io/mcp/puppeteer-mcp) - Headless browser automation server that captures screenshots, executes JavaScript, and interacts with dynamic web pages.
+* [Fetch Web MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) [![RepoAI Security](https://repoai.io/api/badge/security/fetch-mcp)](https://repoai.io/mcp/fetch-mcp) - Converts web pages into clean Markdown representations optimized for context-window-friendly LLM consumption.
+
+---
+
 ## 🛡️ Add Your MCP Server & Badge
 
 Want to list your MCP server or display your real-time security badge?

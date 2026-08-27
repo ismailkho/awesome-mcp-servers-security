@@ -76,4 +76,4 @@ Want to list your MCP server or display your real-time security badge?
 2. Add this snippet to your project's `README.md`:
 
 ```markdown
-[![RepoAI Security](https://repoai.io/api/badge/security/YOUR-SLUG)](https://repoai.io/mcp/YOUR-SLUG)
+[![RepoAI Security](https://repoai.io/api/badge/YOUR-SLUG)](https://repoai.io/mcp/YOUR-SLUG)

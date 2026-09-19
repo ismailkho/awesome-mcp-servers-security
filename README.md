@@ -254,6 +254,7 @@ Click any server name to see its full breakdown: exact permission list, which to
 
 ## 🔎 Search & Data
 
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 *Web search, scraping, and data retrieval. 26 servers tracked — top 12 below.* [See all 26 →](https://repoai.io/category/search-data)
 
 | # | Server | Score | Stars | Description |

@@ -440,3 +440,6 @@ New servers are cross-checked against [RepoAI's directory](https://repoai.io/bro
 ---
 
 *This list is maintained by the RepoAI team and provided for informational purposes. Security scores are a trust signal from public repository data, not a penetration test — always independently verify a server's source, maintainer, and permission scope before connecting it to an AI agent with access to real data or credentials.*
+
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - Non-custodial 3-line Web3 checkout widget, REST API, and remote MCP payment receipt verifier (`wDOOM` on Base Mainnet & `DOOM` Layer-1).
+- [BountyGuard](https://github.com/doomsday-network/bounty-guard) - Zero-dependency MCP security server & CLI auditor that verifies on-chain bounty escrow before AI agents start work.
